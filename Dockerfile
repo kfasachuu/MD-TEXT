@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Alien-alfa/WhatsAppBot-MD /root/AlienAlfa
+RUN git clone https://github.com/DAVIL-SACHU/MD-TEXT /root/AlienAlfa
 
 WORKDIR /root/AlienAlfa/
 
