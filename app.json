@@ -1,22 +1,22 @@
 
 {
-	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
+	"name": "MiniMax",
+	"description": "Fully Costamisable Bot by, Abhiram-Aj.",
 	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
+	"logo": "https://avatars.githubusercontent.com/u/95849340?v=4",
+	"keywords": ["multi-device","ＭＩＮＩ ＭＡＸ"],
 	"stack": "container",
 	"env": { 
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "447405935255"
+            "value": "919605101516"
         }, 
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alien"
+            "value": "Abhiram"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -26,7 +26,7 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alfa"
+            "value": "Aj"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -59,72 +59,72 @@
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "✩"
+            "value": "♡"
         },
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "ＭＩＮＩ ＭＡＸ"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "ＭＩＮＩ ＭＡＸ"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "✩"
+            "value": "☆"
         },
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "sachuabhiram57@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/c/princerudh"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/Abhiram-Aj/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/X_Abhiram_Aj_X/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "𝘼𝘽𝙃𝙄𝙍𝘼𝙈 𝘼𝙅"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "ＭＩＮＩ ＭＡＸ"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/5630bdee12b13f26b07ca.jpg"
         },
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/16ae36c96eb598bd296da.jpg"
         },
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/X_Abhiram_Aj_X/"
         },
     "BUTTONURL_LINK2": {
             "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://github.com/Abhiram-Aj/"
         },
     "BUTTONURL_OPTION1": {
             "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
@@ -134,7 +134,7 @@
     "BUTTONURL_OPTION2": {
             "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
             "required": false,
-            "value": "ʏᴏᴜᴛᴜʙᴇ"
+            "value": "ɢɪᴛʜᴜʙ"
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
